@@ -1,1 +1,2 @@
-output_files/*.txt
+output_files/*
+venv
